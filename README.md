@@ -25,3 +25,10 @@
 # Bevezető
 Szia! A [GUEST_VENDEG Network](https://discord.gg/8DsXP9FzU3) a magyarországi iskolákhoz tartoró `GUEST_VENDEG` publikus jelszavait osztja meg közösségével. Az `eduroam` adatokat nyílt elérhetőségekből szerezzük, amiket biztonságosan fel is használuk. A saját botunkban a legjobb eszközöket alkalmaztuk, például a `gv!eduroam` parancsot a bot biztonsági okok miatt DM-ben küldi el, majd 30 másodperc múlva automatikusan törlődik. A [GUEST_VENDEG Network](https://discord.gg/8DsXP9FzU3) közösségünk nem áll kapcsolatban az internet szolgáltatójával, a [KIFÜ](https://kifu.gov.hu)-vel.
 
+# Általános Szerződési Feltételek
+
+## **`1.0`** Általános Tájékoztató
+
+### **`1.1`** A [GUEST_VENDEG Network](https://discord.gg/8DsXP9FzU3) semmilyen formában nem áll kapcsolatban a hivatalos szolgáltatóval, a [KIFÜ](https://kifu.gov.hu)-val.
+
+### **`1.2`** 
