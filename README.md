@@ -1,6 +1,7 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'></head>
 
+<div align="center">
 <style>
 .logo {
  border-radius: 50%; 
@@ -12,8 +13,6 @@
   color: #395ff5;
 }
 </style>
-
-<div align="center">
     <a href="https://discord.gg/8DsXP9FzU3">
     <img class="logo" src="assets/gvn_ico.gif" style="vertical-align: middle;"><br><br>
 
