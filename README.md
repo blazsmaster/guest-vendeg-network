@@ -1,24 +1,23 @@
 <head>
 <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'></head>
-
-<div align="center">
 <style>
 .logo {
  border-radius: 50%; 
 }
-
 .logo-title {
   font-weight: bold;
   font-size: 50px;
   color: #395ff5;
 }
 </style>
-    <a href="https://discord.gg/8DsXP9FzU3">
-    <img class="logo" src="assets/gvn_ico.gif" style="vertical-align: middle;"><br><br>
-
-<span class="logo-title" style="font-family: 'Poppins'" >GUEST_VENDEG Network</span><br><br>
-<img src="https://invidget.switchblade.xyz/774316472523554838?language=hu">
-  </a>
+<div>
+    <div align="center">
+        <a href="https://discord.gg/8DsXP9FzU3">
+            <img class="logo" src="assets/gvn_ico.gif" style="vertical-align: middle"><br><br>
+            <span class="logo-title" style="font-family: 'Poppins'" >GUEST_VENDEG Network</span><br><br>
+            <img src="https://invidget.switchblade.xyz/774316472523554838?language=hu">
+        </a>
+    </div>
 </div>
 
 # Bevezető
